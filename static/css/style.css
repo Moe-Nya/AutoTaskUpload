@@ -1,0 +1,491 @@
+body
+{
+    background-color: #F3F3F3;
+}
+
+div.box
+{
+    margin-top:10%;
+    margin-left: 35%;
+    height:200px;
+    width:30%;
+    background-color: #FFFFFF;
+    border-radius: 7px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.p
+{
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    left: 30%;
+    top: 10px;
+}
+
+input[type=text] {
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    border-color: #D6D6D6;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #70EAE6;
+    border: none;
+    color: white;
+    padding: 2% 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+    left:40%;
+}
+
+.inp
+{
+    position: relative;
+    left: 30%;
+    top: 10px;
+}
+
+
+@media screen and (max-width: 1830px)
+{
+    .inp
+    {
+        position: relative;
+        left:29%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 29%;
+    }
+}
+
+@media screen and (max-width: 1790px)
+{
+    .inp
+    {
+        position: relative;
+        left:28%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 28%;
+    }
+}
+
+@media screen and (max-width: 1750px)
+{
+    .inp
+    {
+        position: relative;
+        left:27%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 27%;
+    }
+}
+
+@media screen and (max-width: 1710px)
+{
+    .inp
+    {
+        position: relative;
+        left:26%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 26%;
+    }
+}
+
+@media screen and (max-width: 1670px)
+{
+    .inp
+    {
+        position: relative;
+        left:25%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 25%;
+    }
+}
+
+@media screen and (max-width: 1630px)
+{
+    .inp
+    {
+        position: relative;
+        left:24%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 24%;
+    }
+}
+
+@media screen and (max-width: 1590px)
+{
+    .inp
+    {
+        position: relative;
+        left:23%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 23%;
+    }
+}
+
+@media screen and (max-width: 1550px)
+{
+    .inp
+    {
+        position: relative;
+        left:22%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 22%;
+    }
+}
+
+@media screen and (max-width: 1320px)
+{
+    .inp
+    {
+        position: relative;
+        left:21%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 21%;
+    }
+}
+
+@media screen and (max-width: 1275px)
+{
+    .inp
+    {
+        position: relative;
+        left:20%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 20%;
+    }
+}
+
+@media screen and (max-width: 1230px)
+{
+    .inp
+    {
+        position: relative;
+        left:19%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 19%;
+    }
+}
+
+@media screen and (max-width: 1200px)
+{
+    .inp
+    {
+        position: relative;
+        left:18%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 18%;
+    }
+}
+
+@media screen and (max-width: 1165px)
+{
+    .inp
+    {
+        position: relative;
+        left:17%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 17%;
+    }
+}
+
+@media screen and (max-width: 1150px)
+{
+    .inp
+    {
+        position: relative;
+        left:16%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 16%;
+    }
+    
+    input[type=button], input[type=submit], input[type=reset] {
+    background-color: #70EAE6;
+    border: none;
+    color: white;
+    padding: 2% 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+    left:38%;
+    }
+}
+
+@media screen and (max-width: 1055px)
+{
+    .inp
+    {
+        position: relative;
+        left:15%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 15%;
+    }
+    
+    input[type=button], input[type=submit], input[type=reset] {
+    background-color: #70EAE6;
+    border: none;
+    color: white;
+    padding: 2% 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+    left:37%;
+    }
+}
+
+@media screen and (max-width: 1020px)
+{
+    .inp
+    {
+        position: relative;
+        left:14%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 14%;
+    }
+    
+    input[type=button], input[type=submit], input[type=reset] {
+    background-color: #A5F7FF;
+    border: none;
+    color: white;
+    padding: 2% 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+    left:36%;
+    }
+}
+
+@media screen and (max-width: 1000px)
+{
+    .inp
+    {
+        position: relative;
+        left:13%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 13%;
+    }
+    
+    input[type=button], input[type=submit], input[type=reset] {
+    background-color: #A5F7FF;
+    border: none;
+    color: white;
+    padding: 2% 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+    left:35%;
+    }
+}
+
+@media screen and (max-width: 970px)
+{
+    .inp
+    {
+        position: relative;
+        left:11%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 11%;
+    }
+    
+    input[type=button], input[type=submit], input[type=reset] {
+    background-color: #A5F7FF;
+    border: none;
+    color: white;
+    padding: 2% 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+    left:33%;
+    }
+}
+
+@media screen and (max-width: 940px)
+{
+    .inp
+    {
+        position: relative;
+        left:10%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 10%;
+    }
+    
+    input[type=button], input[type=submit], input[type=reset] {
+    background-color: #70EAE6;
+    border: none;
+    color: white;
+    padding: 2% 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+    left:32%;
+    }
+}
+
+@media screen and (max-width: 900px)
+{
+    .inp
+    {
+        position: relative;
+        left:8%;
+    }
+    
+    .p
+    {
+        font-size: 17px;
+        font-weight: bold;
+        position: relative;
+        left: 8%;
+    }
+    
+    input[type=button], input[type=submit], input[type=reset] {
+    background-color: #70EAE6;
+    border: none;
+    color: white;
+    padding: 2% 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+    left:30%;
+    }
+}
+
+@media screen and (max-width: 890px)
+{
+    div.box
+    {
+        margin-top:10%;
+        margin-left: 2%;
+        height:200px;
+        width:96%;
+        background-color: #FFFFFF;
+        border-radius: 7px;
+        box-shadow: 10px 10px 5px #888888;
+    }
+
+}
